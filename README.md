@@ -22,4 +22,38 @@ Dork is a search string that uses advanced search queries to find information th
   </a>
 </p>
 
+# Installation 💢
+<details open>
+<summary> Android / Linux</summary>
 
+- ```bash
+  $ apt update && apt upgrade
+  ```
+
+- ```bash
+  $ apt install python2 git -y
+  ```
+- ```bash
+  $ apt install pip 
+  ```
+- ```bash
+  $ pip install requests
+  ```
+- ```bash
+  $ pip install urllib3
+  ```
+- ```bash
+  $ pip install google
+  ```
+
+- ```bash
+  $ git clone https://github.com/SyborgSyndicate/AutoDorking
+  ```
+
+- ```bash
+  $ cd AutoDorking
+  ```
+
+- ```bash
+  $ python3 AutoDorking.py
+  ```
